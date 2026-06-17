@@ -85,8 +85,11 @@ Average number of people in a queue vs. time in queue (shared water sources) —
 
 
 -63.85% of Maji Ndogo's population (≈18M people) lives in rural areas, compared to 36.15% (≈10M people) in urban areas.
+
 -Shared taps are by far the most relied-upon water source nationally, serving roughly 12M people — more than double the next largest source (wells, ~4.8M).
+
 -Only 7.55% of the rural population has a working tap inside their home, compared to a higher share in urban areas — underscoring a significant rural infrastructure gap.
+
 -Wells serve substantially more people in rural areas than in urban areas, reflecting their role as a rural-specific water access solution.
 -Hawassa has the fewest tap_in_home water sources of all five provinces (868), trailing well behind Amanzi (2,334), Sokoto (1,486), and Akatsi (1,281).
 -Across the week, women consistently make up the largest share of queue composition, with female participation rising further on weekends relative to male and child participation.
