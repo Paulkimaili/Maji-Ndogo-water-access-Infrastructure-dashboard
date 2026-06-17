@@ -91,11 +91,17 @@ Average number of people in a queue vs. time in queue (shared water sources) —
 -Only 7.55% of the rural population has a working tap inside their home, compared to a higher share in urban areas — underscoring a significant rural infrastructure gap.
 
 -Wells serve substantially more people in rural areas than in urban areas, reflecting their role as a rural-specific water access solution.
+
 -Hawassa has the fewest tap_in_home water sources of all five provinces (868), trailing well behind Amanzi (2,334), Sokoto (1,486), and Akatsi (1,281).
+
 -Across the week, women consistently make up the largest share of queue composition, with female participation rising further on weekends relative to male and child participation.
+
 -Saturday has by far the longest average queue time of any day (roughly 4x a typical weekday), suggesting weekend demand significantly outpaces available capacity.
+
 -Queue times spike sharply during early morning (6–9am) and early evening (4–7pm) hours on weekdays, while Saturday maintains high queue times throughout the entire day.
+
 -There is a strong positive correlation between the number of people in a queue and the time spent waiting — as crowd size approaches ~3,500–4,000 people, average wait times climb toward 500+ minutes.
+
 -Amanzi stands out as the province that has made the most progress toward gender equality in water access.
 
 
