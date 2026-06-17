@@ -3,9 +3,6 @@ A Power BI analytics project exploring water access, water quality, and service 
 
 A Power BI analytics project exploring water access, water quality, and service delivery challenges across the fictional nation of Maji Ndogo. Built using the ALX Data Analytics curriculum's "Maji Ndogo Summary" dataset, this dashboard turns raw water-source records into actionable insights for infrastructure planning and resource allocation.
 
-Show Image
-Show Image
-Show Image
 
 
 📖 Overview
@@ -14,7 +11,12 @@ Maji Ndogo ("Small Waters/little water" in Swahili) is a fictional country used 
 
 Dataset snapshot:
 
-AttributeDetailRows60,146Columns23Geographic scope5 provinces, multiple townsKey variablesWater source type, contamination/pollutant levels, queue times, demographic indicators, population served
+Attribute: Detail
+Rows       -60,146
+Columns    -23
+Geographic scope- 5 provinces, multiple towns
+
+Key variables; Water source type, contamination/pollutant levels, queue times, demographic indicators, population served
 
 The goal of this dashboard is to apply data cleaning, exploratory data analysis (EDA), and visualization techniques to answer practical questions: Where are people underserved? Which water sources are most relied upon? How do queue times and demographics vary across the country? The resulting insights are intended to support data-driven decisions for improving water infrastructure.
 
