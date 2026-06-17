@@ -175,9 +175,13 @@ maji-ndogo-water-dashboard/
 
 Paul Kimaili | Data Analyst/Scientist | Data Engineer
 📧 pkimaili2@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/paul-kimaili964/ 
+
 · Github: [GitHub](https://github.com/Paulkimaili) 
+
 · Portfolio: https://sites.google.com/d/10x_PV0wTMZdghMcV0ROsTVTYH6ZzsIuG/p/1GzxJS75XEbeo7YUYw7irzrApzcxIqy8Z/edit
+
 
 
 🙏 Acknowledgments
