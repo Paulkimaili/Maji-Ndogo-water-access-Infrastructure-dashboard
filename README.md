@@ -142,16 +142,27 @@ Hover over visuals to see detailed tooltips.
 📁 Project Structure
 
 maji-ndogo-water-dashboard/
+
 │
+
 ├── README.md                     # Project documentation (this file)
+
 ├── Maji_Ndogo_Dashboard.pbix      # Power BI report file
+
 ├── data/
+
 │   └── md_water_services.csv     # Source dataset (or link/instructions if too large for GitHub)
+
 ├── assets/
+
 │   ├── national_overview.png     # Dashboard screenshots used in this README
+
 │   ├── province_map.png
+
 │   └── queue_analysis.png
+
 └── docs/
+
     └── data_dictionary.md        # Column descriptions for the dataset (optional)
 
 
